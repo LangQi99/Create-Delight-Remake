@@ -990,7 +990,6 @@
 			y: 9.5d
 		}
 		{
-			dependencies: ["62AA7E83D24E4093"]
 			id: "79C92A2E1542C1A7"
 			size: 1.5d
 			tasks: [{
